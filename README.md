@@ -35,28 +35,14 @@ Resistance (RL) in ohm
  
 **TABLE (1) :FOR THEORETICAL CALCULATION: Rth =750 Ω**
 
-S.No	Load
-Resistance(RL) in ohm	Load
-Current (IL) in mA	Load
-voltage (VL) in volts	Load Power (PL) in watts
-1.				
-2.				
-3.				
-4.				
-5.				
+![WhatsApp Image 2025-12-24 at 10 30 52_5c179031](https://github.com/user-attachments/assets/381ee335-c6f4-466e-8591-7701e8d49ecf)
+				
 
 
 **TABLE (2): FOR PRACTICAL CALCULATION**
 
-S.No	Load
-Resistance(RL) in ohm	Load
-Current (IL) in amps	Load
-voltage (VL) in volts	Load Power (PL) in watts
-1.				
-2.				
-3.				
-4.				
-5.				
+![WhatsApp Image 2025-12-24 at 10 30 16_26a048fa](https://github.com/user-attachments/assets/c769e0b4-16b4-4450-9052-ca7354eb380e)
+
 
 
 **MODEL CALCULATION:**
